@@ -8,6 +8,7 @@ First steps and trials with Lua, for personal reference.
 - Stuff for and by Lua users: <http://lua-users.org/>
 - StackOverflow: <https://stackoverflow.com/questions/tagged/lua>
 - Browse Lua source code at <https://www.lua.org/source/>
+- Git ignore template: <https://github.com/github/gitignore>
 
 ## References
 

@@ -10,6 +10,11 @@ First steps and trials with Lua, for personal reference.
 - Browse Lua source code at <https://www.lua.org/source/>
 - Git ignore template: <https://github.com/github/gitignore>
 
+## Lua Style Guides
+
+- at Lua users: <http://lua-users.org/wiki/LuaStyleGuide>
+- at LuaRocks: <https://github.com/luarocks/lua-style-guide>
+
 ## References
 
 - Book *Programming in Lua* by Roberto Ierusalimschy (4th ed. 2016)

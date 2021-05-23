@@ -24,6 +24,7 @@ First steps and trials with Lua, for personal reference.
 - StackOverflow: <https://stackoverflow.com/questions/tagged/lua>
 - Browse Lua source code at <https://www.lua.org/source/>
 - Git ignore template: <https://github.com/github/gitignore>
+- [Complete Lua Syntax](doc/LuaCompleteSyntax.pdf) (PDF)
 
 ## Lua Style Guides
 
